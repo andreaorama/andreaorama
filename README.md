@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Andrea Orama, a **Software Engineer Student** at the University of Puerto Rico.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-orama-8047a9248)
+
+## Skills
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 <!--
 **andreaorama/andreaorama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
